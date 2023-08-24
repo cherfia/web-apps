@@ -73,7 +73,7 @@
     "Main": {
       "criticalErrorTitle": "Fehler",
       "errorAccessDeny": "Dieser Vorgang ist für Sie nicht verfügbar.<br>Bitte wenden Sie sich an Administratoren.",
-      "errorOpensource": "Mit der kostenlosen Community-Version können Sie Dokumente nur schreibgeschützt öffnen. Für den Zugriff auf mobilen Web-Editoren ist eine kommerzielle Lizenz erforderlich.",
+      "errorOpensource": "In der App kannst Du Dokumente nur betrachten, bitte verwende einen Desktopcomputer zur Bearbeitung.",
       "errorProcessSaveResult": "Fehler beim Speichern von Daten.",
       "errorServerVersion": "Version des Editors wurde aktualisiert. Die Seite wird neu geladen, um die Änderungen zu übernehmen.",
       "errorUpdateVersion": "Die Dateiversion wurde geändert. Die Seite wird neu geladen.",

@@ -357,7 +357,7 @@
       "closeButtonText": "Close File",
       "criticalErrorTitle": "Error",
       "errorAccessDeny": "You are trying to perform an action you do not have rights for.<br>Please, contact your admin.",
-      "errorOpensource": "Using the free Community version, you can open documents for viewing only. To access mobile web editors, a commercial license is required.",
+      "errorOpensource": "The app only supports viewing of documents, please use a desktop computer to edit your files.",
       "errorProcessSaveResult": "Saving failed.",
       "errorServerVersion": "The editor version has been updated. The page will be reloaded to apply the changes.",
       "errorUpdateVersion": "The file version has been changed. The page will be reloaded.",

@@ -165,7 +165,7 @@
       "textReplaceSuccess": "The search has been done. Occurrences replaced: {0}",
       "textReplaceSkipped": "The replacement has been made. {0} occurrences were skipped.",
       "textNoTextFound": "Text not found",
-      "errorOpensource": "Using the free Community version, you can open documents for viewing only. To access mobile web editors, a commercial license is required.",
+      "errorOpensource": "The app only supports viewing of documents, please use a desktop computer to edit your files.",
       "textRequestMacros": "A macro makes a request to URL. Do you want to allow the request to the %1?",
       "titleLicenseExp": "License expired",
       "warnLicenseExp": "Your license has expired. Please, update your license and refresh the page.",

@@ -553,7 +553,7 @@
     "titleServerVersion": "Рэдактар абноўлены",
     "titleUpdateVersion": "Версія змянілася",
     "errorAccessDeny": "You are trying to perform an action you do not have rights for.<br>Please, contact your administrator.",
-    "errorOpensource": "Using the free Community version, you can open documents for viewing only. To access mobile web editors, a commercial license is required.",
+    "errorOpensource": "The app only supports viewing of documents, please use a desktop computer to edit your files.",
     "leavePageText": "You have unsaved changes. Click 'Stay on this Page' to wait for autosave. Click 'Leave this Page' to discard all the unsaved changes.",
     "textCustomLoader": "Sorry, you are not entitled to change the loader. Contact our sales department to get a quote.",
     "textDialogProtectedChangesTracked": "You may edit this document, but all changes will be tracked",
